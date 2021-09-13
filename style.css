@@ -1,0 +1,123 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.color{
+    color: tomato;
+}
+.new{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    text-align: center;
+    margin-top: 150px;
+}
+.new1{
+ margin-right:20% ;
+    
+    width: 30%;
+    float: right;
+    padding-right: 2%;
+    
+}
+
+.new1 img{
+    width: 100%;
+}
+
+.header{
+    background-image: url("img/header-bg.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+ 
+}
+.hire{
+    text-decoration: none;
+    font-size:larger;
+    font-weight: 700;
+  border-radius: 5px;
+  padding:5px 10px;
+  color: white;
+background-image: linear-gradient(45deg,tomato,lightsalmon);
+}
+.new3{
+    width: 30%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.new4{
+    width: 40%;
+float: right;
+margin-right: 20%;
+margin-top: 150px;
+
+}
+.new3 img{
+    width: 100%;
+}
+.resume{
+     text-decoration: none;
+    font-size:larger;
+    font-weight: 700;
+  border-radius: 5px;
+  padding:5px 10px;
+  color: white;
+background-image: linear-gradient(45deg,tomato,lightsalmon);
+   
+}
+.biography{
+    background-image: url("img/biography-bg.png");
+}
+.work{
+    text-align: center;
+    margin-right: 500px;
+}
+.new5{
+    width: 100%;
+    float: left;
+text-align: center;
+   display: inline;
+ margin-right: 100px;
+}
+.activity{
+    background-image: url("img/latest-work-bg.png");
+}
+
+.work1{
+    width: 300px;
+    height: 300px;
+    margin-right:10px;
+
+}
+.work2{
+    width:300px;
+    height: 300px;
+    margin-right: 10px;
+}
+.work3{
+    width: 300px;
+    height: 300px;
+ 
+}
+.clint{
+    text-align: center;
+}
+
+.sp{
+    font-size: 8px;
+}
+.end{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    border: 2px;
+    border-radius: 5px;
+    padding: 15px 25px;
+
+}
+.footer{
+    background-image: url("img/footer-bg.png");
+}
